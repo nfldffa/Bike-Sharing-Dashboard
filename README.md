@@ -16,6 +16,7 @@ Dashboard ini menyajikan visualisasi data interaktif untuk membantu memahami:
 ## 📂 Project Structure
 
 ```text
+.
 ├── dashboard
 │   ├── dashboard.py      # File utama aplikasi Streamlit
 │   └── main_data.csv     # Dataset bersih hasil cleaning & processing
@@ -24,7 +25,9 @@ Dashboard ini menyajikan visualisasi data interaktif untuk membantu memahami:
 │   └── hour.csv          # Dataset mentah (per jam)
 ├── notebook.ipynb        # Jupyter Notebook untuk Exploratory Data Analysis (EDA)
 ├── README.md             # Dokumentasi proyek
-└── requirements.txt      # Daftar library Python yang dibutuhkan
+├── requirements.txt      # Daftar library Python yang dibutuhkan
+├── url.txt               # Tautan ke dashboard Streamlit
+└── dashboard.png         # Pratinjau (Screenshot) tampilan dashboard
 ```
 
 ## 🚀 Getting Started

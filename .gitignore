@@ -1,0 +1,13 @@
+# 1. Virtual Environment (WAJIB DI-IGNORE)
+venv/
+
+# 2. Python Cache
+__pycache__/
+*.pyc
+
+# 3. Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# 4. Konfigurasi Editor/OS
+.vscode/
+.DS_Store

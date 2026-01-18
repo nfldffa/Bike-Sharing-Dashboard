@@ -5,6 +5,8 @@
 
 Proyek ini merupakan **dashboard analisis data penyewaan sepeda (Bike Sharing)** yang dikembangkan sebagai bagian dari *submission* tugas akhir **Dicoding – Belajar Fundamental Analisis Data**.
 
+✨ **Live Dashboard:** [https://bikes-sharing-dashboard.streamlit.app/](https://bikes-sharing-dashboard.streamlit.app/)
+
 Dashboard ini menyajikan visualisasi data interaktif untuk membantu memahami:
 
 * Pola dan tren penyewaan sepeda

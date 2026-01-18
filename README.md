@@ -1,8 +1,5 @@
 # 🚲 Bike Sharing Analysis Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📌 Overview
 

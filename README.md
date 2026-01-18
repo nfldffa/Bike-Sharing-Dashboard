@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-Proyek ini merupakan **dashboard analisis data penyewaan sepeda (Bike Sharing)** yang dikembangkan sebagai bagian dari *submission* tugas akhir **Dicoding – Belajar Analisis Data dengan Python**.
+Proyek ini merupakan **dashboard analisis data penyewaan sepeda (Bike Sharing)** yang dikembangkan sebagai bagian dari *submission* tugas akhir **Dicoding – Belajar Fundamental Analisis Data**.
 
 Dashboard ini menyajikan visualisasi data interaktif untuk membantu memahami:
 
@@ -14,7 +14,6 @@ Dashboard ini menyajikan visualisasi data interaktif untuk membantu memahami:
 ## 📂 Project Structure
 
 ```text
-.
 ├── dashboard
 │   ├── dashboard.py      # File utama aplikasi Streamlit
 │   └── main_data.csv     # Dataset bersih hasil cleaning & processing
